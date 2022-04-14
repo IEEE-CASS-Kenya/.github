@@ -3,6 +3,7 @@
 # What is IEEE?
 
 # What is IEEE CASS?
+![IEEE CASS]("ieee-cass.png")
 
 # How do I join?
 
